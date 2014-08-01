@@ -1,0 +1,15 @@
+{
+    "name": "tmukherjee13/ptest",
+    "description": "Phalcon Test Setup",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tarun Mukherjee",
+            "email": "tmukherjee13@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
